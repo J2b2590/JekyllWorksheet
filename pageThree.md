@@ -88,7 +88,7 @@ permalink: /pageThree/
 
 	}
 	.wrapper{
-		padding: 15px;
+		padding: 15px 2px 15px 2px;
 
 
 	}
