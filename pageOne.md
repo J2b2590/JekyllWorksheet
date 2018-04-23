@@ -8,15 +8,17 @@ permalink: /
 	<div class="boxOne">
 		<h2 class="boxText">This is box #1</h2>
 	</div>
-<a href="/pageTwo/">
-<button class="buttonOne">
+
+	<a href="/pageTwo/">
+
+		<button class="buttonOne">
 
 
-<h2>this is a button</h2>
+			<h2>this is a button</h2>
 
-</button>
+		</button>
 
-</a>
+	</a>
 </div>
 
 <style type="text/css">
@@ -28,10 +30,9 @@ permalink: /
 	.boxOne{
 		background-color: lightgreen;
 		float:left;
-		
 		width: 45%;
 		height: 450px;
-		border-radius: 4%;
+		border-radius: 5%;
 		text-align: center;
 
 	}
@@ -41,11 +42,11 @@ permalink: /
 		width: 45%;
 		
 		height: 450px;
-		border-radius: 4%;
+		border-radius: 5%;
 	}
 
 	.wrapper{
-		padding: 1px;
+		padding: 2px;
 
 	}
 	
