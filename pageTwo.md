@@ -11,7 +11,7 @@ permalink: /pageTwo/
 	</div>
 
 <div class="boxTwo">
-		<h2 class="boxText">This is box #1</h2>
+		<h2 class="boxText">This is box #2</h2>
 	</div>
 
 <a href="/pageThree/">
