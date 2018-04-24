@@ -2,101 +2,51 @@
 layout: page
 permalink: /pageThree/
 ---
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/styles.css">
 
 <div class="wrapper">
 
-	<div class="boxOne">
-		<h2 class="boxText">This is box</h2>
+	<div class="thirdBoxOne">
+		<h2 class="boxTextThree">This is box</h2>
 	</div>
-	<div class="boxTwo">
-		<h2 class="boxText">This is box</h2>
+	
+<div class="thirdBoxTwo">
+		<h2 class="boxTextThree">This is box 2</h2>
 	</div>
 		
-	<div class="boxThree">
+<div class="boxThree">
 
-		<h2>this is box</h2>
+		<h2 class="boxTextThree">this is box 3</h2>
 
 	</div>
 
 </div>
 
+
+
 <div class="wrapper">
 
-	<div class="boxOne">
-		<h2 class="boxText">This is box</h2>
+	<div class="thirdBoxOne">
+		<h2 class="boxTextThree">This is box 1</h2>
 	</div>
 
-	<div class="boxTwo">
-		<h2 class="boxText">This is box</h2>
+<div class="thirdBoxTwo">
+		<h2 class="boxTextThree">This is box 2</h2>
 	</div>
 		
-	<div class="boxThree">
-		<h2>this is box</h2>
+<div class="boxThree">
+		<h2 class="boxTextThree">this is box 3</h2>
 	</div>
 
 </div>
 
 <div class="boxSeven">
-			<h2 class="boxText">This is box</h2>
+			<h2 class="boxTextThree">This is box 7</h2>
 		</div>
 		
 	
-
-<style type="text/css">
-
-	.boxText{
-		position: relative;
-	    top: 50%;
-	    transform: translateY(-50%);
-	}
-
-	.boxOne{
-		background-color: lightgreen;
-		float:left;
-		width: 20%;
-		height: 100px;
-		border-radius: 10%;
-		text-align: center;
-		position: inline-block;
-
-	}
-	.boxTwo{
-		background-color: lightgreen;
-		float: right;
-		margin-left: 20%;
-		width: 20%;
-		height: 100px;
-		border-radius: 10%;
-		text-align: center;
-		
-
-	}
-	.boxThree{
-		background-color: lightgreen;
-		float:right;
-		width: 20%;
-		height: 100px;
-		border-radius: 10%;
-		text-align: center;
-
-	}
-	.boxSeven{
-		background-color: lightgreen;
-		
-		margin-left: 40%;
-		margin-top: 1%;
-		width: 20%;
-		height: 100px;
-		border-radius: 10%;
-		text-align: center;
-
-	}
-	.wrapper{
-		padding: 15px 2px 15px 2px;
+<style type="text/css"> 
+ 
 
 
-	}
-	footer{
-		position: sticky;
-	}
-</style>
+
