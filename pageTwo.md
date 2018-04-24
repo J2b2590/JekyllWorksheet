@@ -63,6 +63,7 @@ permalink: /pageTwo/
 	}
 	.wrapper{
 		padding: 2px;
+		
 
 	}
 </style>

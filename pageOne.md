@@ -48,7 +48,7 @@ permalink: /
 
 	.wrapper{
 		padding: 2px 2px;
-		margin-top: 1%;
+		
 
 	}
 	
