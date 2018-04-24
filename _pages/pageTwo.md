@@ -10,20 +10,19 @@ permalink: /pages/pageTwo/
 		<h2 class="boxText">This is box #1</h2>
 	</div>
 
-<div class="boxTwo">
-		<h2 class="boxText">This is box #1</h2>
-	</div>
+		<div class="boxTwo">
+			<h2 class="boxText">This is box #1</h2>
+		</div>
 
-<a href="/pageThree/">
+	<a href="/pageThree/">
 	
-<button class="buttonOne">
+		<button class="buttonOne">
 
+			<h2>this is a button</h2>
 
-<h2>this is a button</h2>
+		</button>
 
-</button>
-
-</a>
+	</a>
 </div>
 
 <style type="text/css">

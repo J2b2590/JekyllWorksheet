@@ -24,7 +24,9 @@ permalink: /
 <style type="text/css">
 
 	.boxText{
-		margin-top: 25%;
+		position: relative;
+	    top: 50%;
+	    transform: translateY(-50%);
 	}
 	
 	.boxOne{
@@ -32,7 +34,7 @@ permalink: /
 		float:left;
 		width: 45%;
 		height: 450px;
-		border-radius: 5%;
+		border-radius: 50px 50px;
 		text-align: center;
 
 	}
@@ -40,13 +42,13 @@ permalink: /
 		background-color: lightgreen;
 		float: right;
 		width: 45%;
-		
 		height: 450px;
-		border-radius: 5%;
+		border-radius: 50px 50px;
 	}
 
 	.wrapper{
 		padding: 2px 2px;
+		margin-top: 1%;
 
 	}
 	

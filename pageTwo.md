@@ -27,13 +27,18 @@ permalink: /pageTwo/
 </div>
 
 <style type="text/css">
-
+	.boxText{
+		position: relative;
+	    top: 50%;
+	    transform: translateY(-50%);
+		color: purple;
+	}
 	.boxOne{
 		background-color: lightgreen;
 		float:left;
 		width: 20%;
 		height: 450px;
-		border-radius: 5%;
+		border-radius: 50px 50px;
 		text-align: center;
 
 	}
@@ -43,7 +48,7 @@ permalink: /pageTwo/
 		margin-left: 20%;
 		width: 20%;
 		height: 450px;
-		border-radius: 5%;
+		border-radius: 50px 50px;
 		text-align: center;
 
 	}
@@ -52,7 +57,7 @@ permalink: /pageTwo/
 		float:right;
 		width: 20%;
 		height: 450px;
-		border-radius: 5%;
+		border-radius: 50px 50px;
 		text-align: center;
 
 	}

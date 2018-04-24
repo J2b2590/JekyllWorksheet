@@ -46,6 +46,12 @@ permalink: /pageThree/
 
 <style type="text/css">
 
+	.boxText{
+		position: relative;
+	    top: 50%;
+	    transform: translateY(-50%);
+	}
+
 	.boxOne{
 		background-color: lightgreen;
 		float:left;

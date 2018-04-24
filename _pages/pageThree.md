@@ -15,7 +15,7 @@ permalink: /pageThree/
 	
 <div class="boxThree">
 
-<h2>this is a button</h2>
+	<h2>this is a button</h2>
 
 </div>
 
