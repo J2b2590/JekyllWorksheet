@@ -1,8 +1,7 @@
 ---
 layout: page
-permalink: /pageTwo/
+permalink: /
 ---
-
 
 <div class="wrapper">
 
@@ -10,43 +9,25 @@ permalink: /pageTwo/
 		<h2 class="boxText">This is box #1</h2>
 	</div>
 
-<div class="boxTwo">
-		<h2 class="boxText">This is box #2</h2>
-	</div>
-
-<a href="/pageThree/">
-	
-<button class="buttonOne">
-
-
-<h2>this is a button</h2>
-
-</button>
-
-</a>
+	<a href="/pageTwo/">
+		<button class="buttonOne">
+			<h2>this is a button</h2>
+		</button>
+	</a>
 </div>
 
 <style type="text/css">
+
 	.boxText{
 		position: relative;
 	    top: 50%;
 	    transform: translateY(-50%);
-		color: purple;
 	}
+	
 	.boxOne{
 		background-color: lightgreen;
 		float:left;
-		width: 20%;
-		height: 450px;
-		border-radius: 50px 50px;
-		text-align: center;
-
-	}
-	.boxTwo{
-		background-color: lightgreen;
-		float: left;
-		margin-left: 20%;
-		width: 20%;
+		width: 45%;
 		height: 450px;
 		border-radius: 50px 50px;
 		text-align: center;
@@ -54,25 +35,16 @@ permalink: /pageTwo/
 	}
 	.buttonOne{
 		background-color: lightgreen;
-		float:right;
-		width: 20%;
+		float: right;
+		width: 45%;
 		height: 450px;
 		border-radius: 50px 50px;
-		text-align: center;
-
 	}
+
 	.wrapper{
-		padding: 2px;
+		padding: 2px 2px;
 		
 
 	}
+	
 </style>
-
-
-
-
-
-
-
-
-

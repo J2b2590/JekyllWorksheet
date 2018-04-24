@@ -8,15 +8,15 @@ permalink: /pageThree/
 	<div class="boxOne">
 		<h2 class="boxText">This is box</h2>
 	</div>
-<div class="boxTwo">
-			<h2 class="boxText">This is box</h2>
-		</div>
+	<div class="boxTwo">
+		<h2 class="boxText">This is box</h2>
+	</div>
 		
-<div class="boxThree">
+	<div class="boxThree">
 
-<h2>this is box</h2>
+		<h2>this is box</h2>
 
-</div>
+	</div>
 
 </div>
 
@@ -27,14 +27,12 @@ permalink: /pageThree/
 	</div>
 
 	<div class="boxTwo">
-			<h2 class="boxText">This is box</h2>
-		</div>
+		<h2 class="boxText">This is box</h2>
+	</div>
 		
 	<div class="boxThree">
-
-<h2>this is box</h2>
-
-</div>
+		<h2>this is box</h2>
+	</div>
 
 </div>
 
