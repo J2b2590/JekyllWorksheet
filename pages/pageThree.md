@@ -14,13 +14,12 @@ permalink: /pageThree/
 <div class="thirdBoxTwo">
 		<h2 class="boxTextThree">This is box #2</h2>
 	</div>
-			
 <div class="boxThree">
 		<h2 class="boxTextThree">This is box #3</h2>
 	</div>
 
-</div>
 
+</div>
 
 <div class="wrapper">
 
@@ -35,13 +34,15 @@ permalink: /pageThree/
 		<div class="boxThree">
 			<h2 class="boxTextThree">This is box #6</h2>
 		</div>
-
+		
 </div>
 <div class="wrapperSeven">
-			<div class="boxSeven">
-		<h2 class="boxTextThree">This is box #7</h2>
-			</div>
+		<div class="boxSeven">
+			<h2 class="boxTextThree">This is box #7</h2>
 		</div>
+</div>
+
+
 	
 
  

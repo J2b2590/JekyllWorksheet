@@ -17,7 +17,7 @@ permalink: /pageTwo/
 
 	<a href="/pageThree/">
 		<button class="secondButton">
-			<h2>this is a button #1</h2>
+			<h2>This is button #1</h2>
 		</button>
 	</a>
 
