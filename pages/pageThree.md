@@ -36,14 +36,19 @@ permalink: /pageThree/
 			<h2 class="boxTextThree">This is box #6</h2>
 		</div>
 		
-</div>
-
-<div class="wrapperSeven">
 		<div class="boxSeven">
 			<h2 class="boxTextThree">This is box #7</h2>
 		</div>
+		
+
 </div>
 
+
+
+
+
+
+	
 
 	
 
