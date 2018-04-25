@@ -10,7 +10,7 @@ permalink: /
 		<h2 class="boxText">This is box #1</h2>
 	</div>
 
-<a href="/pageTwo/">
+	<a href="/pageTwo/">
 		<button class="buttonOne">
 			<h2>This is button #1</h2>
 		</button>
