@@ -12,7 +12,7 @@ permalink: /
 
 <a href="/pageTwo/">
 		<button class="buttonOne">
-			<h2>this is a button</h2>
+			<h2>this is a button #1</h2>
 		</button>
 	</a>
 </div>
